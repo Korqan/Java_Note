@@ -1,0 +1,4 @@
+- StringBuilder
+StringBuilder builder = new StringBuilder();
+bulilder.append(ch/str);
+String completedString = builder.toString();
